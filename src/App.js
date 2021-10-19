@@ -8,6 +8,7 @@ function App() {
         <h1>Hello World</h1>
         <p>World is kinda meh.</p>
         <p>How are you?</p>
+        <p>Benedict was here</p>
       </div>
     </div>
   );
