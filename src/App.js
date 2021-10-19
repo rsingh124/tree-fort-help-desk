@@ -8,11 +8,8 @@ function App() {
         <h1>Hello World</h1>
         <p>World is kinda meh.</p>
         <p>How are you?</p>
-<<<<<<< Updated upstream
-        <p>Benedict was here</p>
-=======
         <p>Its Ranbir trying to push.</p>
->>>>>>> Stashed changes
+        <p>Its Ranbir trying to push.2</p>
       </div>
     </div>
   );
