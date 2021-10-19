@@ -7,6 +7,7 @@ function App() {
       <div className="content">
         <h1>Hello World</h1>
         <p>World is kinda meh.</p>
+        <p>How are you?</p>
       </div>
     </div>
   );
